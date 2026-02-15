@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# fake-news-dectection-system
+# fake-news-detection-system
 A machine learning system to classify news articles as REAL or FAKE using NLP and PassiveAggressiveClassifier
 =======
 📰 Fake News Detection System
