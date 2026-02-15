@@ -34,7 +34,12 @@ A machine learning project that classifies news articles as \*\*Real\*\* or \*\*
 
 📊 Results
 
-&nbsp; Accuracy:93% 
+&nbsp; Model Used: Logistic Regression
+Accuracy: 93%
+Precision: 92%
+Recall: 94%
+F1 Score: 93%
+ROC-AUC: 0.95
 
 &nbsp; Developed a robust model capable of handling high-dimensional text data.
 
