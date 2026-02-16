@@ -89,9 +89,10 @@ Evaluated using classification metrics and ROC curve.
 
 ---
 
-## 📷 Results
+##  Results
 
-(Add screenshots here)
+<img width="640" height="480" alt="confusion_matrix" src="https://github.com/user-attachments/assets/769fdf24-f283-4faf-9127-dbf30bc9280e" />
+
 
 - Confusion Matrix
 - ROC Curve
